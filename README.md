@@ -2,4 +2,5 @@
 
 ##TODO:
 1. Set up shop
- * Application structure
+ * Application structure (continously)
+ * ~~Stormpath, express, react~~

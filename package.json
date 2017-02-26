@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/js22gz/myteiching.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jonatan Skäryd",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/js22gz/myteiching/issues"
   },
