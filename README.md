@@ -1,3 +1,5 @@
 # myteiching
 
-TODO:
+##TODO:
+1. Set up shop
+ * Application structure
